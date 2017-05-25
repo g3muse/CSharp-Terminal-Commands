@@ -1,2 +1,2 @@
 # CSharp-Terminal-Commands
-Run Terminal commands using C#
+Use C# to run Terminal commands
