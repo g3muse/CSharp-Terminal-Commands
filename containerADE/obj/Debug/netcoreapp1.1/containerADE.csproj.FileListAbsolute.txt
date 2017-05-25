@@ -1,0 +1,8 @@
+/Users/g3muse/Documents/workspace/containerADE/bin/Debug/netcoreapp1.1/containerADE.deps.json
+/Users/g3muse/Documents/workspace/containerADE/bin/Debug/netcoreapp1.1/containerADE.runtimeconfig.json
+/Users/g3muse/Documents/workspace/containerADE/bin/Debug/netcoreapp1.1/containerADE.runtimeconfig.dev.json
+/Users/g3muse/Documents/workspace/containerADE/bin/Debug/netcoreapp1.1/containerADE.dll
+/Users/g3muse/Documents/workspace/containerADE/bin/Debug/netcoreapp1.1/containerADE.pdb
+/Users/g3muse/Documents/workspace/containerADE/obj/Debug/netcoreapp1.1/containerADE.AssemblyInfo.cs
+/Users/g3muse/Documents/workspace/containerADE/obj/Debug/netcoreapp1.1/containerADE.dll
+/Users/g3muse/Documents/workspace/containerADE/obj/Debug/netcoreapp1.1/containerADE.pdb
